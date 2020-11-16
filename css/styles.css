@@ -1,0 +1,35 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width: 3.5%;
+  border-width: 5px;
+}
+img:hover{
+  background-color: gold ;
+}
+h1{
+  color:#66BFBF;
+  font-family: sans-serif;
+}
+h3{
+  color:#66BFBF;
+  font-family: sans-serif;
+}
+
+.cake{
+  background-color: pink;
+}
+.icecream{
+  background-color: lightgreen;
+}
+#heading{
+  color:green;
+}
+#Prof{
+  border-radius: 100%;
+}
